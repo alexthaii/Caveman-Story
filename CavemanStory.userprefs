@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\WiiU\TheBigShuffle\Assets\Scripts\PlayerScripts\ControlScripts\PlayerRevive.cs">
+    <Files>
+      <File FileName="..\WiiU\TheBigShuffle\Assets\Scripts\PlayerScripts\ControlScripts\PlayerRevive.cs" Line="26" Column="25" />
+      <File FileName="..\WiiU\TheBigShuffle\Assets\Scripts\PlayerScripts\ControlScripts\PlayerHealth.cs" Line="179" Column="50" />
+      <File FileName="..\WiiU\TheBigShuffle\Assets\Scripts\PlayerScripts\Utils\PlayerUtils.cs" Line="299" Column="2" />
+      <File FileName="..\WiiU\TheBigShuffle\Assets\Scripts\PlayerScripts\EngineerCharacter\EngineerObjectController.cs" Line="47" Column="2" />
+      <File FileName="..\WiiU\TheBigShuffle\Assets\Scripts\PlayerScripts\ControlScripts\PlayerJump.cs" Line="71" Column="1" />
+      <File FileName="..\WiiU\TheBigShuffle\Assets\Scripts\PlayerScripts\Utils\PlayerValues.cs" Line="16" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

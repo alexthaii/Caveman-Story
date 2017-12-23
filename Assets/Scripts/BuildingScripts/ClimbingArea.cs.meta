@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: cceac9371891bf3428943378ac1f8455
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - climbZonePrefab: {fileID: 100000, guid: 2cd92f1a7165f994d8b1b6272d331ae4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
